@@ -1,0 +1,21 @@
+{
+  "name": "bower-rails generated lib assets",
+  "dependencies": {
+    "json3": "latest",
+    "es5-shim": "latest",
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-sanitize": "latest",
+    "angular-animate": "latest",
+    "angular-touch": "latest",
+    "angular-route": "latest",
+    "angular-bootstrap": "latest",
+    "oclazyload": "latest",
+    "angular-toggle-switch": "latest",
+    "metisMenu": "latest",
+    "angular-chart.js": "latest",
+    "chartjs": "latest",
+    "ng-token-auth": "latest"
+  }
+}
